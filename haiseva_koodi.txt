@@ -1,0 +1,3 @@
+Mitä tarkoitetaan haisevalla koodilla?
+
+Koodia jossa on huonoja kommentteja jotka eivät selvennä koodia ymmärrettävällä tavalla. Kommentit ovat turhan pitkiä tai sisältävät turhaa tekstiä. Koodi joka ei tee mitään tai joka on tehty turhan pitkästi. Koodi joka on selkeästi tarkoitettu johonkon muuhun kuten koodi joka on suoraan kopioitu netistä. Koodi jossa on käytetty montaa erilaista kirjoitus tapaa kuten($Koodia tai $koodia). Koodi jossa on käytetää turhan pitkiä luokkia jotka oltaisi voitu lyhentää pienemmiksi pätkiksi.
